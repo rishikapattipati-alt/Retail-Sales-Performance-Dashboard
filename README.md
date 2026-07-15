@@ -81,7 +81,7 @@ Contains information such as:
 
  6. Dashboard Screenshots / Demo
   Show  what the dashboard looks like.
-  Example:
+  Example:https://github.com/rishikapattipati-alt/Retail-Sales-Performance-Dashboard/blob/main/Snapchat%20of%20Dashboard.jpg
 
 
 
